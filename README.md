@@ -1,6 +1,6 @@
 # Remix + Postgres Starter — App
 
-The application code behind the [`recipe-starter-template`](https://github.com/fxck/recipe-starter-template) Zerops recipe. A [Remix](https://remix.run) app with a [PostgreSQL](https://www.postgresql.org/) database, ready to deploy on [Zerops](https://zerops.io).
+The application code behind the [`recipe-starter-template`](https://github.com/fxck/recipe-sim-starter-template) Zerops recipe. A [Remix](https://remix.run) app with a [PostgreSQL](https://www.postgresql.org/) database, ready to deploy on [Zerops](https://zerops.io).
 
 <!-- #ZEROPS_EXTRACT_START:intro# -->
 A minimal Remix + Postgres app: server-rendered routes, a Prisma data layer, and session-cookie auth. The whole thing builds with Vite and runs as a single Node process.
